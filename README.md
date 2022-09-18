@@ -1,2 +1,4 @@
-# design-patterns
-Design Patterns Fundamentals with Java.
+<span>[PT-BR]<span>
+![top image puzze](/imgs/puzzle_top_patterns.jpg)
+
+# padrões de projetos
